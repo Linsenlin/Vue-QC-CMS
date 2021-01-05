@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "area-data": "^5.0.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.8.2",
     "quill-image-extend-module": "^1.1.2",
     "vue": "^2.6.10",
